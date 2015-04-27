@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.iOS", "Sample\Sample.iOS.csproj", "{34F91401-789C-4A0F-913C-882C71ED13E7}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DraggableView", "DraggableView\DraggableView.shproj", "{19541C37-250F-482F-A58F-323A08AD7770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Debug|iPhone.Build.0 = Debug|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Debug|x86.ActiveCfg = Debug|iPhoneSimulator
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Debug|x86.Build.0 = Debug|iPhoneSimulator
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Release|iPhone.Build.0 = Release|iPhone
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Release|x86.ActiveCfg = Release|iPhoneSimulator
+		{34F91401-789C-4A0F-913C-882C71ED13E7}.Release|x86.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
