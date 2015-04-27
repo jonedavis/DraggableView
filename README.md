@@ -1,6 +1,6 @@
 # Draggable View
 
-Create a draggable view that is similar to Tinder's.
+Create a draggable view that is similar to Tinder's in Xamarin.iOS.
 
 ## Installation
 
